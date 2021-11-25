@@ -1,0 +1,2 @@
+//global variables
+firstTime = false;
